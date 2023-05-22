@@ -1,0 +1,654 @@
+{
+    "ok": true,
+    "msg": "337 pacientes encontrados",
+    "patients": [
+        {
+            "uid": "646b9cad3f551a4a0f3ecc34",
+            "nombre": "Freda House",
+            "edad": "0 años, 291 días",
+            "sexo": "Femenino"
+        },
+        {
+            "uid": "646b93d43f551a4a0f3ecaaf",
+            "nombre": "Robin Melton",
+            "edad": "0 años, 320 días",
+            "sexo": "Masculino"
+        },
+        {
+            "uid": "641c7abbb2db689898686952",
+            "nombre": "Freda House",
+            "edad": "0 años, 75 días",
+            "sexo": "Femenino"
+        },
+        {
+            "uid": "64680a6b3f551a4a0f3ec67c",
+            "nombre": "Freda House",
+            "edad": "1 años, 105 días",
+            "sexo": "Femenino"
+        },
+        {
+            "uid": "641cba5ab2db689898686b07",
+            "nombre": "Robin Melton",
+            "edad": "0 años, 136 días",
+            "sexo": "Masculino"
+        },
+        {
+            "uid": "63ee60773ebe864ada33e3a7",
+            "nombre": "Robin Melton",
+            "edad": "0 años, 104 días",
+            "sexo": "Masculino"
+        },
+        {
+            "uid": "64669bf3b2db689898698722",
+            "nombre": "Robin Melton",
+            "edad": "5 años, 26 días",
+            "sexo": "Masculino"
+        },
+        {
+            "uid": "646692f5b2db689898698497",
+            "nombre": "Freda House",
+            "edad": "4 años, 132 días",
+            "sexo": "Femenino"
+        },
+        {
+            "uid": "64640698b2db689898697f42",
+            "nombre": "Robin Melton",
+            "edad": "7 años, 141 días",
+            "sexo": "Masculino"
+        },
+        {
+            "uid": "6464049db2db689898697ea6",
+            "nombre": "Freda House",
+            "edad": "1 años, 124 días",
+            "sexo": "Femenino"
+        },
+        {
+            "uid": "64528e97b2db6898986922cb",
+            "nombre": "Freda House",
+            "edad": "0 años, 77 días",
+            "sexo": "Femenino"
+        },
+        {
+            "uid": "64629e14b2db689898697558",
+            "nombre": "Robin Melton",
+            "edad": "5 años, 201 días",
+            "sexo": "Masculino"
+        },
+        {
+            "uid": "6418ec5cb2db689898685d3e",
+            "nombre": "Freda House",
+            "edad": "0 años, 295 días",
+            "sexo": "Femenino"
+        },
+        {
+            "uid": "645fd68ab2db68989869701e",
+            "nombre": "Robin Melton",
+            "edad": "3 años, 233 días",
+            "sexo": "Masculino"
+        },
+        {
+            "uid": "645fccc9b2db689898696ff6",
+            "nombre": "Robin Melton",
+            "edad": "3 años, 66 días",
+            "sexo": "Masculino"
+        },
+        {
+            "uid": "645fbb1db2db689898696d57",
+            "nombre": "Freda House",
+            "edad": "8 años, 341 días",
+            "sexo": "Femenino"
+        },
+        {
+            "uid": "640653713ebe864ada340979",
+            "nombre": "Freda House",
+            "edad": "0 años, 114 días",
+            "sexo": "Femenino"
+        },
+        {
+            "uid": "645fb22eb2db689898696b59",
+            "nombre": "Robin Melton",
+            "edad": "0 años, 9 días",
+            "sexo": "Masculino"
+        },
+        {
+            "uid": "645ecb4eb2db689898696514",
+            "nombre": "Freda House",
+            "edad": "8 años, 268 días",
+            "sexo": "Femenino"
+        },
+        {
+            "uid": "645eb490b2db689898696076",
+            "nombre": "Freda House",
+            "edad": "0 años, 319 días",
+            "sexo": "Femenino"
+        },
+        {
+            "uid": "645eb073b2db689898695df4",
+            "nombre": "Robin Melton",
+            "edad": "1 años, 217 días",
+            "sexo": "Masculino"
+        },
+        {
+            "uid": "645ebcc7b2db6898986961da",
+            "nombre": "Robin Melton",
+            "edad": "0 años, 274 días",
+            "sexo": "Masculino"
+        },
+        {
+            "uid": "645eb85cb2db68989869619d",
+            "nombre": "Freda House",
+            "edad": "0 años, 22 días",
+            "sexo": "Femenino"
+        },
+        {
+            "uid": "63ebff903ebe864ada33de2d",
+            "nombre": "Freda House",
+            "edad": "0 años, 114 días",
+            "sexo": "Femenino"
+        },
+        {
+            "uid": "645d81d8b2db6898986959a0",
+            "nombre": "Freda House",
+            "edad": "8 años, 80 días",
+            "sexo": "Femenino"
+        },
+        {
+            "uid": "63d53656d86784a3d1b74745",
+            "nombre": "Robin Melton",
+            "edad": "0 años, 119 días",
+            "sexo": "Masculino"
+        },
+        {
+            "uid": "63eea6773ebe864ada33e513",
+            "nombre": "Freda House",
+            "edad": "7 años, 235 días",
+            "sexo": "Femenino"
+        },
+        {
+            "uid": "645d606cb2db68989869547f",
+            "nombre": "Freda House",
+            "edad": "0 años, 38 días",
+            "sexo": "Femenino"
+        },
+        {
+            "uid": "645ae069b2db689898695176",
+            "nombre": "Freda House",
+            "edad": "7 años, 101 días",
+            "sexo": "Femenino"
+        },
+        {
+            "uid": "63d2f33cd86784a3d1b744ba",
+            "nombre": "Robin Melton",
+            "edad": "0 años, 135 días",
+            "sexo": "Masculino"
+        },
+        {
+            "uid": "645ac4f1b2db689898694d10",
+            "nombre": "Freda House",
+            "edad": "5 años, 140 días",
+            "sexo": "Femenino"
+        },
+        {
+            "uid": "64599836b2db689898694650",
+            "nombre": "Prueba 2",
+            "edad": "0 años, 14 días",
+            "sexo": ""
+        },
+        {
+            "uid": "64599837b2db68989869465e",
+            "nombre": "Prueba 2",
+            "edad": "0 años, 14 días",
+            "sexo": ""
+        },
+        {
+            "uid": "64599836b2db689898694658",
+            "nombre": "Prueba 2",
+            "edad": "0 años, 14 días",
+            "sexo": ""
+        },
+        {
+            "uid": "6459931cb2db689898694414",
+            "nombre": "Robin Melton",
+            "edad": "2 años, 163 días",
+            "sexo": "Masculino"
+        },
+        {
+            "uid": "64432aaab2db68989868ebcb",
+            "nombre": "Freda House",
+            "edad": "3 años, 260 días",
+            "sexo": "Femenino"
+        },
+        {
+            "uid": "64596f63b2db689898693bf7",
+            "nombre": "Robin Melton",
+            "edad": "0 años, 347 días",
+            "sexo": "Masculino"
+        },
+        {
+            "uid": "64596db9b2db689898693b4a",
+            "nombre": "Freda House",
+            "edad": "4 años, 316 días",
+            "sexo": "Femenino"
+        },
+        {
+            "uid": "645965e4b2db6898986938fb",
+            "nombre": "Freda House",
+            "edad": "7 años, 259 días",
+            "sexo": "Femenino"
+        },
+        {
+            "uid": "64488c04b2db68989868fe5f",
+            "nombre": "Freda House",
+            "edad": "3 años, 187 días",
+            "sexo": "Femenino"
+        },
+        {
+            "uid": "64487462b2db68989868fbac",
+            "nombre": "Robin Melton",
+            "edad": "8 años, 153 días",
+            "sexo": "Masculino"
+        },
+        {
+            "uid": "6455841ab2db68989869313a",
+            "nombre": "Robin Melton",
+            "edad": "10 años, 225 días",
+            "sexo": "Masculino"
+        },
+        {
+            "uid": "64557132b2db689898692ee6",
+            "nombre": "Freda House",
+            "edad": "11 años, 237 días",
+            "sexo": "Femenino"
+        },
+        {
+            "uid": "64543db8b2db689898692952",
+            "nombre": "Robin Melton",
+            "edad": "6 años, 231 días",
+            "sexo": "Masculino"
+        },
+        {
+            "uid": "64542757b2db689898692754",
+            "nombre": "Robin Melton",
+            "edad": "0 años, 31 días",
+            "sexo": "Masculino"
+        },
+        {
+            "uid": "645426e0b2db68989869274d",
+            "nombre": "Freda House",
+            "edad": "0 años, 171 días",
+            "sexo": "Femenino"
+        },
+        {
+            "uid": "6451a7aeb2db689898692118",
+            "nombre": "Freda House",
+            "edad": "1 años, 39 días",
+            "sexo": "Femenino"
+        },
+        {
+            "uid": "645181a2b2db689898691c79",
+            "nombre": "Freda House",
+            "edad": "0 años, 242 días",
+            "sexo": "Femenino"
+        },
+        {
+            "uid": "64480e74b2db68989868f520",
+            "nombre": "Freda House",
+            "edad": "0 años, 32 días",
+            "sexo": "Femenino"
+        },
+        {
+            "uid": "645181a2b2db689898691c7f",
+            "nombre": "Freda House",
+            "edad": "0 años, 242 días",
+            "sexo": "Femenino"
+        },
+        {
+            "uid": "641cd0d7b2db689898687086",
+            "nombre": "Robin Melton",
+            "edad": "6 años, 258 días",
+            "sexo": "Masculino"
+        },
+        {
+            "uid": "644d5a6cb2db6898986916c5",
+            "nombre": "Freda House",
+            "edad": "5 años, 303 días",
+            "sexo": "Femenino"
+        },
+        {
+            "uid": "644d5a6cb2db6898986916cb",
+            "nombre": "Freda House",
+            "edad": "5 años, 303 días",
+            "sexo": "Femenino"
+        },
+        {
+            "uid": "644701cdb2db68989868f2f9",
+            "nombre": "Robin Melton",
+            "edad": "5 años, 259 días",
+            "sexo": "Masculino"
+        },
+        {
+            "uid": "63d2eefcd86784a3d1b74485",
+            "nombre": "Robin Melton",
+            "edad": "0 años, 238 días",
+            "sexo": "Masculino"
+        },
+        {
+            "uid": "644c4896b2db689898690fd6",
+            "nombre": "Robin Melton",
+            "edad": "1 años, 0 días",
+            "sexo": "Masculino"
+        },
+        {
+            "uid": "63e192263ebe864ada33ce78",
+            "nombre": "Robin Melton",
+            "edad": "0 años, 145 días",
+            "sexo": "Masculino"
+        },
+        {
+            "uid": "644c3e95b2db689898690dac",
+            "nombre": "Freda House",
+            "edad": "11 años, 248 días",
+            "sexo": "Femenino"
+        },
+        {
+            "uid": "644aeacfb2db6898986901e3",
+            "nombre": "Robin Melton",
+            "edad": "16 años, 59 días",
+            "sexo": "Masculino"
+        },
+        {
+            "uid": "644b0672b2db689898690718",
+            "nombre": "Robin Melton",
+            "edad": "12 años, 34 días",
+            "sexo": "Masculino"
+        },
+        {
+            "uid": "644b053bb2db689898690711",
+            "nombre": "Robin Melton",
+            "edad": "10 años, 306 días",
+            "sexo": "Masculino"
+        },
+        {
+            "uid": "644b02f2b2db689898690610",
+            "nombre": "Freda House",
+            "edad": "1 años, 157 días",
+            "sexo": "Femenino"
+        },
+        {
+            "uid": "644aff07b2db689898690562",
+            "nombre": "Elian Alexander Hernández López",
+            "edad": "2 años, 75 días",
+            "sexo": ""
+        },
+        {
+            "uid": "64486bdbb2db68989868fb06",
+            "nombre": "Freda House",
+            "edad": "7 años, 310 días",
+            "sexo": "Femenino"
+        },
+        {
+            "uid": "64486b15b2db68989868fa83",
+            "nombre": "Freda House",
+            "edad": "6 años, 283 días",
+            "sexo": "Femenino"
+        },
+        {
+            "uid": "63d43a34d86784a3d1b7466b",
+            "nombre": "Robin Melton",
+            "edad": "3 años, 330 días",
+            "sexo": "Masculino"
+        },
+        {
+            "uid": "63d4462bd86784a3d1b7469e",
+            "nombre": "Freda House",
+            "edad": "3 años, 330 días",
+            "sexo": "Femenino"
+        },
+        {
+            "uid": "63e6e56a3ebe864ada33d611",
+            "nombre": "Robin Melton",
+            "edad": "1 años, 276 días",
+            "sexo": "Masculino"
+        },
+        {
+            "uid": "64432a46b2db68989868ebc4",
+            "nombre": "Freda House",
+            "edad": "0 años, 254 días",
+            "sexo": "Femenino"
+        },
+        {
+            "uid": "6443061db2db68989868ea31",
+            "nombre": "Freda House",
+            "edad": "6 años, 95 días",
+            "sexo": "Femenino"
+        },
+        {
+            "uid": "6441bd80b2db68989868def6",
+            "nombre": "Freda House",
+            "edad": "2 años, 326 días",
+            "sexo": "Femenino"
+        },
+        {
+            "uid": "6441b045b2db68989868dddb",
+            "nombre": "Robin Melton",
+            "edad": "0 años, 195 días",
+            "sexo": "Masculino"
+        },
+        {
+            "uid": "643f2b86b2db68989868dbb9",
+            "nombre": "Freda House",
+            "edad": "12 años, 171 días",
+            "sexo": "Femenino"
+        },
+        {
+            "uid": "643f1545b2db68989868d87d",
+            "nombre": "Freda House",
+            "edad": "3 años, 259 días",
+            "sexo": "Femenino"
+        },
+        {
+            "uid": "6439d4a0b2db68989868ce18",
+            "nombre": "Robin Melton",
+            "edad": "0 años, 64 días",
+            "sexo": "Masculino"
+        },
+        {
+            "uid": "643f15aeb2db68989868d884",
+            "nombre": "Robin Melton",
+            "edad": "2 años, 33 días",
+            "sexo": "Masculino"
+        },
+        {
+            "uid": "643f1015b2db68989868d765",
+            "nombre": "Robin Melton",
+            "edad": "4 años, 173 días",
+            "sexo": "Masculino"
+        },
+        {
+            "uid": "643de907b2db68989868d33d",
+            "nombre": "Robin Melton",
+            "edad": "1 años, 261 días",
+            "sexo": "Masculino"
+        },
+        {
+            "uid": "63ee98a43ebe864ada33e489",
+            "nombre": "Freda House",
+            "edad": "0 años, 147 días",
+            "sexo": "Femenino"
+        },
+        {
+            "uid": "64389962b2db68989868bd36",
+            "nombre": "Freda House",
+            "edad": "9 años, 160 días",
+            "sexo": "Femenino"
+        },
+        {
+            "uid": "643898dbb2db68989868bd2f",
+            "nombre": "Robin Melton",
+            "edad": "0 años, 112 días",
+            "sexo": "Masculino"
+        },
+        {
+            "uid": "6438943cb2db68989868bc74",
+            "nombre": "Freda House",
+            "edad": "2 años, 207 días",
+            "sexo": "Femenino"
+        },
+        {
+            "uid": "640c91693ebe864ada3423c4",
+            "nombre": "Freda House",
+            "edad": "0 años, 79 días",
+            "sexo": "Femenino"
+        },
+        {
+            "uid": "6435cb93b2db68989868b075",
+            "nombre": "Robin Melton",
+            "edad": "0 años, 102 días",
+            "sexo": "Masculino"
+        },
+        {
+            "uid": "6435cb93b2db68989868b07b",
+            "nombre": "Robin Melton",
+            "edad": "0 años, 102 días",
+            "sexo": "Masculino"
+        },
+        {
+            "uid": "643583d9b2db68989868af59",
+            "nombre": "Robin Melton",
+            "edad": "1 años, 360 días",
+            "sexo": "Masculino"
+        },
+        {
+            "uid": "6434a188b2db68989868abe5",
+            "nombre": "Robin Melton",
+            "edad": "3 años, 168 días",
+            "sexo": "Masculino"
+        },
+        {
+            "uid": "6434a188b2db68989868abeb",
+            "nombre": "Robin Melton",
+            "edad": "3 años, 168 días",
+            "sexo": "Masculino"
+        },
+        {
+            "uid": "640a59f93ebe864ada341866",
+            "nombre": "Freda House",
+            "edad": "0 años, 240 días",
+            "sexo": "Femenino"
+        },
+        {
+            "uid": "64286b7db2db68989868a4e2",
+            "nombre": "Freda House",
+            "edad": "0 años, 291 días",
+            "sexo": "Femenino"
+        },
+        {
+            "uid": "64276b23b2db689898689f67",
+            "nombre": "Robin Melton",
+            "edad": "5 años, 92 días",
+            "sexo": "Masculino"
+        },
+        {
+            "uid": "63f7e2493ebe864ada33ee66",
+            "nombre": "Robin Melton",
+            "edad": "5 años, 84 días",
+            "sexo": "Masculino"
+        },
+        {
+            "uid": "642764ccb2db689898689e78",
+            "nombre": "Freda House",
+            "edad": "8 años, 332 días",
+            "sexo": "Femenino"
+        },
+        {
+            "uid": "64275dd6b2db689898689d68",
+            "nombre": "Freda House",
+            "edad": "5 años, 84 días",
+            "sexo": "Femenino"
+        },
+        {
+            "uid": "6427563fb2db689898689b1a",
+            "nombre": "Robin Melton",
+            "edad": "4 años, 127 días",
+            "sexo": "Masculino"
+        },
+        {
+            "uid": "64260744b2db689898689738",
+            "nombre": "Robin Melton",
+            "edad": "5 años, 319 días",
+            "sexo": "Masculino"
+        },
+        {
+            "uid": "641cc886b2db689898686e25",
+            "nombre": "Robin Melton",
+            "edad": "3 años, 23 días",
+            "sexo": "Masculino"
+        },
+        {
+            "uid": "6410ac263ebe864ada3434e8",
+            "nombre": "Robin Melton",
+            "edad": "0 años, 97 días",
+            "sexo": "Masculino"
+        },
+        {
+            "uid": "642355f9b2db689898688fc1",
+            "nombre": "Freda House",
+            "edad": "0 años, 319 días",
+            "sexo": "Femenino"
+        },
+        {
+            "uid": "64220197b2db689898688a28",
+            "nombre": "Robin Melton",
+            "edad": "3 años, 59 días",
+            "sexo": "Masculino"
+        },
+        {
+            "uid": "64220732b2db689898688b19",
+            "nombre": "Robin Melton",
+            "edad": "1 años, 139 días",
+            "sexo": "Masculino"
+        },
+        {
+            "uid": "642200b5b2db6898986888e4",
+            "nombre": "Freda House",
+            "edad": "0 años, 103 días",
+            "sexo": "Femenino"
+        },
+        {
+            "uid": "641f326ab2db689898688457",
+            "nombre": "Freda House",
+            "edad": "12 años, 308 días",
+            "sexo": "Femenino"
+        },
+        {
+            "uid": "641f31e1b2db689898688450",
+            "nombre": "Robin Melton",
+            "edad": "6 años, 363 días",
+            "sexo": "Masculino"
+        },
+        {
+            "uid": "641f28b1b2db689898688268",
+            "nombre": "Freda House",
+            "edad": "1 años, 123 días",
+            "sexo": "Femenino"
+        },
+        {
+            "uid": "641f282ab2db689898688123",
+            "nombre": "Robin Melton",
+            "edad": "4 años, 208 días",
+            "sexo": "Masculino"
+        },
+        {
+            "uid": "63d46698d86784a3d1b74718",
+            "nombre": "Freda House",
+            "edad": "1 años, 10 días",
+            "sexo": "Femenino"
+        },
+        {
+            "uid": "641f28b1b2db689898688262",
+            "nombre": "Freda House",
+            "edad": "1 años, 123 días",
+            "sexo": "Femenino"
+        }
+    ]
+}

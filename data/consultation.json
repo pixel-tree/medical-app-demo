@@ -1,0 +1,32 @@
+{
+    "ok": true,
+    "msg": "Consulta encontrada",
+    "consultation": {
+        "_id": "646b9cc03f551a4a0f3eccf8",
+        "fecha": "2023-05-22T16:48:00.747Z",
+        "edad": 1,
+        "edadM": 1,
+        "peso": 1,
+        "talla": 50,
+        "circunferencia_cefalica": "40",
+        "temperatura": "37",
+        "pulso": "70",
+        "respiracion": "0",
+        "examen_fisico": "Datos ...",
+        "motivo_consulta": "Datos ...",
+        "historia_enfermedad": "Datos ...",
+        "examen_de_laboratorio_y_gabinete": "",
+        "receta": "Datos ...",
+        "comentario": "Datos ...",
+        "diagnostico": "Datos ...",
+        "clinica": "zona10",
+        "paciente": "646b9cad3f551a4a0f3ecc34",
+        "createdAt": "2023-05-22T16:48:00.749Z",
+        "updatedAt": "2023-05-22T17:09:22.048Z",
+        "__v": 0,
+        "id": "646b9cc03f551a4a0f3eccf8",
+        "drive": {
+            "consultationFolderUrl": null
+        }
+    }
+}

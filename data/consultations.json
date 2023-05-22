@@ -1,0 +1,10 @@
+{
+    "ok": true,
+    "msg": "Consulta encontradas",
+    "consultations": [
+        {
+            "_id": "646b9cc03f551a4a0f3eccf8",
+            "fecha": "2023-05-22T16:48:00.747Z"
+        }
+    ]
+}
