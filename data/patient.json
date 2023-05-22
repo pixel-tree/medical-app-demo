@@ -1,0 +1,156 @@
+{
+    "ok": true,
+    "msg": "Paciente encontrado",
+    "patient": {
+        "_id": "646b9cad3f551a4a0f3ecc34",
+        "nombre": "Freda House       ",
+        "fecha_de_nacimiento": "2022-08-04T16:03:00.000Z",
+        "lugar_de_nacimiento": "IGGS",
+        "control_prenatal": "si",
+        "domicilio": "1ave 1-1, Zona 1",
+        "tipo_de_parto": "Cesárea",
+        "sexo": "Femenino",
+        "antecedes_familiares": {
+            "madre": {
+                "nombre": "Freda House Mother",
+                "edad": "36",
+                "gesta": "1",
+                "para": "1",
+                "abortos": "0",
+                "grupo_rh": "B+",
+                "otros": "",
+                "enfermedades": "",
+                "email": "fredamother@email.com",
+                "telefono": "12345678"
+            },
+            "padre": {
+                "nombre": "Freda House Father",
+                "edad": "41",
+                "enfermedades": "",
+                "email": "fredafather@hotmial.com",
+                "telefono": "12345678"
+            },
+            "hermanos": [
+                {
+                    "nombre": "",
+                    "edad": "0",
+                    "enfermedades": "",
+                    "_id": "646b9cad3f551a4a0f3ecc36",
+                    "id": "646b9cad3f551a4a0f3ecc36"
+                }
+            ],
+            "alergia": false,
+            "convulsiones": false,
+            "diabetes": false,
+            "hta": false,
+            "cancer": "",
+            "otros": "",
+            "_id": "646b9cad3f551a4a0f3ecc35",
+            "createdAt": "2023-05-22T16:47:41.254Z",
+            "updatedAt": "2023-05-22T16:47:41.254Z",
+            "id": "646b9cad3f551a4a0f3ecc35"
+        },
+        "antecedes_perinatales": {
+            "neonato": {
+                "apgar": {
+                    "minuto_1": "",
+                    "minuto_5": ""
+                },
+                "peso_al_nacer": "2.38",
+                "talla_al_nacer": "44.5",
+                "circunferencia_cefalica": "",
+                "grupo_rh": "B+",
+                "edad_gestacional": "38",
+                "clasificacion_rn": "PEG",
+                "problemas_postnatales": ""
+            },
+            "problemas_en_el_embarazo": "",
+            "_id": "646b9cad3f551a4a0f3ecc37",
+            "createdAt": "2023-05-22T16:47:41.254Z",
+            "updatedAt": "2023-05-22T16:47:41.254Z",
+            "id": "646b9cad3f551a4a0f3ecc37"
+        },
+        "inmunizaciones": [
+            {
+                "vacuna": "64286bf0b2db68989868a565",
+                "fechas": [
+                    "2022-09-30T16:41:42.000Z",
+                    "2022-11-25T16:42:14.000Z",
+                    "2023-03-01T16:42:30.000Z"
+                ],
+                "_id": "646b9cad3f551a4a0f3ecc38",
+                "createdAt": "2023-05-22T16:47:41.254Z",
+                "updatedAt": "2023-05-22T16:47:41.254Z",
+                "id": "646b9cad3f551a4a0f3ecc38"
+            },
+            {
+                "vacuna": "6387a007df9f482c7996f26a",
+                "fechas": [
+                    "2022-09-30T16:42:48.000Z",
+                    "2022-11-25T16:43:54.000Z",
+                    "2023-01-30T16:44:26.000Z"
+                ],
+                "_id": "646b9cad3f551a4a0f3ecc39",
+                "createdAt": "2023-05-22T16:47:41.254Z",
+                "updatedAt": "2023-05-22T16:47:41.254Z",
+                "id": "646b9cad3f551a4a0f3ecc39"
+            },
+            {
+                "vacuna": "63878d918d94a14d4b538ab1",
+                "fechas": [
+                    "2022-10-28T16:45:05.000Z",
+                    "2023-01-30T16:45:46.000Z",
+                    "2023-05-28T16:46:02.000Z"
+                ],
+                "_id": "646b9cad3f551a4a0f3ecc3a",
+                "createdAt": "2023-05-22T16:47:41.254Z",
+                "updatedAt": "2023-05-22T16:47:41.254Z",
+                "id": "646b9cad3f551a4a0f3ecc3a"
+            }
+        ],
+        "enfermedades": [],
+        "historial_de_la_alimentacion": {
+            "lactancia": "",
+            "duracion": "",
+            "ablactacion": "",
+            "vitaminas": "",
+            "alimentos_blandos": "",
+            "dieta_actual": "",
+            "vomitos": "",
+            "evacuaciones": "",
+            "alergias": "",
+            "otros": "",
+            "_id": "646b9cad3f551a4a0f3ecc3b",
+            "id": "646b9cad3f551a4a0f3ecc3b"
+        },
+        "desarrollo_neurologico": {
+            "desarrollo_neurologico": "",
+            "se_sento": "",
+            "se_puso_de_pie": "",
+            "camino": "",
+            "primeras_palabras": "",
+            "frases_cortas": "",
+            "primer_diente": "",
+            "control_de_esfinteres": "",
+            "otros": "",
+            "_id": "646b9cad3f551a4a0f3ecc3c",
+            "createdAt": "2023-05-22T16:47:41.255Z",
+            "updatedAt": "2023-05-22T16:47:41.255Z",
+            "id": "646b9cad3f551a4a0f3ecc3c"
+        },
+        "consultas": [
+            "646b9cc03f551a4a0f3eccf8"
+        ],
+        "createdAt": "2023-05-22T16:47:41.255Z",
+        "updatedAt": "2023-05-22T16:48:00.827Z",
+        "__v": 1,
+        "edad": "0 años, 291 días",
+        "edadMeses": "9.70",
+        "edadyears": "0.80",
+        "edadYearsMonths": "0 años, 9 meses",
+        "id": "646b9cad3f551a4a0f3ecc34",
+        "drive": {
+            "patientFolderUrl": null
+        }
+    }
+}

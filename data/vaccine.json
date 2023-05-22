@@ -1,0 +1,77 @@
+{
+    "ok": true,
+    "vaccines": [
+        {
+            "_id": "63878d918d94a14d4b538aae",
+            "nombre": "Ejemplo Vacuna 1"
+        },
+        {
+            "_id": "63878d918d94a14d4b538aab",
+            "nombre": "Ejemplo Vacuna 2"
+        },
+        {
+            "_id": "63878d918d94a14d4b538aaa",
+            "nombre": "Ejemplo Vacuna 3"
+        },
+        {
+            "_id": "63878d918d94a14d4b538aa8",
+            "nombre": "Ejemplo Vacuna 4"
+        },
+        {
+            "_id": "638824e93ab3de092a62c483",
+            "nombre": "Ejemplo Vacuna 5"
+        },
+        {
+            "_id": "6391030b16b4bf8f2bce0770",
+            "nombre": "Ejemplo Vacuna 6"
+        },
+        {
+            "_id": "63878d918d94a14d4b538ab0",
+            "nombre": "Ejemplo Vacuna 7"
+        },
+        {
+            "_id": "63878d918d94a14d4b538ab1",
+            "nombre": "Ejemplo Vacuna 8"
+        },
+        {
+            "_id": "63878d918d94a14d4b538aac",
+            "nombre": "Ejemplo Vacuna 9"
+        },
+        {
+            "_id": "63878d918d94a14d4b538aad",
+            "nombre": "Ejemplo Vacuna 10"
+        },
+        {
+            "_id": "63878d918d94a14d4b538aaf",
+            "nombre": "Ejemplo Vacuna 11"
+        },
+        {
+            "_id": "6387a007df9f482c7996f26a",
+            "nombre": "Ejemplo Vacuna 12"
+        },
+        {
+            "_id": "63d3183dd86784a3d1b745ba",
+            "nombre": "Ejemplo Vacuna 13"
+        },
+        {
+            "_id": "63d567b8d86784a3d1b74841",
+            "nombre": "Ejemplo Vacuna 14"
+        },
+        {
+            "_id": "63d84f3a3d14801a2c9900d0",
+            "nombre": "Ejemplo Vacuna 15"
+        },
+        {
+            "_id": "63f951c73ebe864ada33f263",
+            "nombre": "Ejemplo Vacuna 16"
+        },
+        {
+            "_id": "64235fb8b2db6898986890a3",
+            "nombre": "Ejemplo Vacuna 17"
+        },
+        {
+            "_id": "64286bf0b2db68989868a565",
+            "nombre": "Ejemplo Vacuna 18"
+        }
+    ]
+}

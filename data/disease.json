@@ -1,0 +1,29 @@
+{
+    "ok": true,
+    "diseases": [
+        {
+            "_id": "640bce013ebe864ada342277",
+            "nombre": "Ejemplo Enfermedad 1"
+        },
+        {
+            "_id": "64286b66b2db68989868a4dd",
+            "nombre": "Ejemplo Enfermedad 2"
+        },
+        {
+            "_id": "643583b5b2db68989868af54",
+            "nombre": "Ejemplo Enfermedad 3"
+        },
+        {
+            "_id": "643896a4b2db68989868bd03",
+            "nombre": "Ejemplo Enfermedad 4"
+        },
+        {
+            "_id": "64542fa1b2db689898692870",
+            "nombre": "Ejemplo Enfermedad 5"
+        },
+        {
+            "_id": "645d72c1b2db6898986956d4",
+            "nombre": "Ejemplo Enfermedad 6"
+        }
+    ]
+}
